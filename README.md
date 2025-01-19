@@ -1,6 +1,7 @@
 # MetaMask SDK
 
 [![codecov](https://codecov.io/gh/MetaMask/metamask-sdk/graph/badge.svg?token=6B3Z3724OO)](https://codecov.io/gh/MetaMask/metamask-sdk)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fmetamask-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fmetamask-sdk?ref=badge_shield)
 
 MetaMask SDK enables developers to easily connect their dapps with the MetaMask browser extension
 and MetaMask Mobile.
@@ -106,3 +107,7 @@ To contribute to MetaMask SDK, see the [contribution guidelines](./docs/contribu
 
 Fill out [this form](https://fq1an8d8ib2.typeform.com/to/sC7eK5F1) for a complimentary design
 optimization workshop.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fmetamask-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fmetamask-sdk?ref=badge_large)
